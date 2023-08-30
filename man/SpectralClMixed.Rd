@@ -3,6 +3,7 @@
 \docType{package}
 \name{SpectralClMix}
 \alias{SpectralClMix}
+\alias{SpectralClMixed-package}
 \title{SpectralClMix}
 \description{
 Cluster analysis of mixed-type data using Spectral Clustering.

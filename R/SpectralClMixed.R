@@ -4,7 +4,7 @@
 #' that can be used to un spectral clustering.
 #'
 #' @docType package
-#'
+#' @aliases SpectralClMixed-package
 #' @author Felix Mbuga, Cristina Tortora, Zander Bonnet
 #'
 #' @name SpectralClMixed
